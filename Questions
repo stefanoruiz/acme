@@ -1,0 +1,16 @@
+- What, in your opinion, is an important part of code reviews? That is, what is
+  something you pay attention to when you review code, and that you appreciate
+  when others do the same for your code?
+
+Syntax and ease of code. The easier and more understandable it is the better. It's a two way street.
+I always strive for clean and readable code. 
+
+
+- We have an awful lot of computers here, and it gets pretty confusing with
+  slightly different things running on all of them. How could containers help us
+  improve this situation?
+
+Version and differences in operating systems hinders workflow. Using containers makes it easier
+to test across a variety of platforms without having to change the main code. Running a Linux distro
+in a container rather than running a variety of OS's not only is it more straight forward but you also
+avoid having different commands too. 
